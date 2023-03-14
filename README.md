@@ -16,3 +16,11 @@ Basic and Specalised Visualization Tools (DV0101EN_Exec_AreaPlots_Histograms_Bar
 - Explain how to create bar charts.
 - Create pie charts using Matplotlib.
 - Create a box plot using Matplotlib.
+
+Advanced Visualizations and Geospatial Data () = Learning about advanced visualization tools such as waffle charts and word clouds and how to create them. Also, about seaborn, which is another visualization library, and how to use it to generate attractive regression plots. In addition, Folium, which is another visualization library, designed especially for visualizing geospatial data. Finally, how to use Folium to create maps of different regions of the world and how to superimpose markers on top of a map, and how to create choropleth maps.
+
+- Apply advanced visualization tools to create waffle charts and word clouds.
+- Use Seaborn with Matplotlibto generate attractive regression plots.
+- Explain how to use the Folium, for visualizing geospatial data.
+- Use Folium to create maps and superpose markers.
+- Create Choropleth Maps with Folium.
